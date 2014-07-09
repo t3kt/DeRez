@@ -1,4 +1,1 @@
-DeRez
-=====
-
-TD: Python for DeRez Color Kinect
+DeRez has grown up and moved out of experiments to https://github.com/t3kt/DeRez
